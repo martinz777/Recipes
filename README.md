@@ -1,4 +1,4 @@
-# Рецепты Recipe1
+# Рецепты Recipe1-r2
 
 - [Брауни](brownie.md)
 - [Банановые панкейки](banana_pancake.md)
